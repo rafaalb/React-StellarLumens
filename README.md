@@ -1,25 +1,15 @@
-# ReduxSimpleStarter
+# React And Redux with Stellar SDK
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Experiment with the Stellar network sdk.
+
+#### Make Payments.
+#### Real time transactions history on the network
 
 ### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+To run this project:
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
+> git clone https://github.com/rafaalb/React-StellarLumens.git
+> cd React-StellarLumens
 > npm install
 > npm start
 ```
