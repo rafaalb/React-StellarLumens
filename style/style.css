@@ -1,0 +1,30 @@
+.payments {
+
+}
+
+.account {
+  margin-bottom: 30px;
+}
+
+.transactions {
+
+}
+
+.small {
+  font-size: 10px;
+}
+
+.payInput {
+  margin: 20px;
+  width: 30%;
+  margin-left: 0;
+}
+
+.buttonAcc {
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.key {
+  margin: 10px;
+}

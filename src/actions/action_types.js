@@ -1,0 +1,5 @@
+export const FETCH_TRANSACTIONS = 'FETCH_TRANSACTIONS';
+export const CREATE_WALLET = 'CREATE_WALLET';
+export const MAKE_PAYMENT = 'MAKE_PAYMENT';
+export const UPDATE_WALLET = 'UPDATE_WALLET';
+export const UPDATE_KEY = 'UPDATE_KEY';
